@@ -1,4 +1,4 @@
-**Manufacturing Supply Chain: Financial Risk & Lead-Time Optimization**
+**Manufacturing Supply Chain: Financial Risk & Lead-Time Optimization** 
 **Project Overview**
 In a "Just-In-Time" (JIT) manufacturing environment, a late shipment is more than a delay—it is a production bottleneck. When critical components are missing, assembly lines stall, but fixed costs like labor and overhead continue to accumulate.
 This project engineers a Financial Risk Model to quantify the "Economic Bleed" caused by logistics failures. By integrating shipping data with manufacturing criticality, I identified the Top 10 "Profit Killers" and pinpointed the root cause of systemic delays.
